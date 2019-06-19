@@ -23,10 +23,3 @@ Updating after making changes / pulling new version is also simple:
 3. Click on the refresh-icon in the lower right corner of the extension card
 
 That's it. As long as the path to the extension stays the same in your filesystem. If the path changes, you must remove and reload the extension.
-
-## Links
-
-https://developer.chrome.com/extensions/samples
-https://developer.chrome.com/extensions/api_index
-https://developer.chrome.com/extensions/declare_permissions
-https://developer.chrome.com/extensions/devguide

@@ -1,0 +1,28 @@
+{
+  "name": "Demo Extension",
+  "version": "1.0",
+  "description": "A simple context menu for example.com",
+  "manifest_version": 2,
+  "permissions": [
+    "activeTab",
+    "declarativeContent",
+    "contextMenus",
+    "http://localhost/",
+    "https://localhost/",
+    "http://example.com/",
+    "https://example.com/"
+  ],
+  "background": {
+    "page": "background.html",
+    "persistent": false
+  },
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "images/icon.png"
+    }
+  },
+  "icons": {
+    "128": "images/icon.png"
+  }
+}

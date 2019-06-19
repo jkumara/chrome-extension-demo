@@ -26,7 +26,7 @@ That's it. As long as the path to the extension stays the same in your filesyste
 
 ## Links
 
-[https://developer.chrome.com/extensions/samples](Samples)
-[https://developer.chrome.com/extensions/api_index](APIs)
-[https://developer.chrome.com/extensions/declare_permissions](Available permissions)
-[https://developer.chrome.com/extensions/devguide](Developer guide)
+https://developer.chrome.com/extensions/samples
+https://developer.chrome.com/extensions/api_index
+https://developer.chrome.com/extensions/declare_permissions
+https://developer.chrome.com/extensions/devguide

@@ -7,8 +7,6 @@
     "activeTab",
     "declarativeContent",
     "contextMenus",
-    "http://localhost/",
-    "https://localhost/",
     "http://example.com/",
     "https://example.com/"
   ],
